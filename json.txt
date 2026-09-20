@@ -1,4 +1,5 @@
 {
-  "LockApp": false,
-  "Link": "https://t.me/ZEISTEYOFICIAL"
+  "LockApp": true,
+  "Link": "https://t.me/ZEISTEYOFICIAL",
+  "dpmodsytlinkredirect": false
 }
