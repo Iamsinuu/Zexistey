@@ -1,6 +1,7 @@
 {
-  "latest_version": "0",
-  "title": "New Update Available!",
-  "message": "Please click the Update Now button to download the latest version.",
-  "download_url": "https://t.me/ZEISTEYOFICIAL"
+  "version_code": 20,
+  "version_name": "2.0.0",
+  "force_update": false,
+  "update_url": "https://t.me/RudraxoRedirect",
+  "changelog": "1. Performance improvements\n2. New UI design\n3. Bug fixes"
 }
